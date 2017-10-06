@@ -1,0 +1,21 @@
+{
+  "name": "graphql-basics",
+  "version": "1.0.0",
+  "description": "A introduction to the basics of using GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.26.2",
+    "express": "^4.16.1",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "pify": "^3.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "xml2js": "^0.4.19"
+  }
+}
