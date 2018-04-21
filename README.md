@@ -1,2 +1,3 @@
-# learning-curve
-A repository to collectively hold working examples of things I would personally like to get better at.
+# learning-curve :books:
+
+A repository that collectively represents "Hello-World" type examples of libraries, frameworks, languages, concepts that I would like to learn / get better at.
